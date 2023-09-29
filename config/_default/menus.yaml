@@ -1,0 +1,42 @@
+leftnav:
+- identifier: d0d4beaa-b3ad-bbbd-3f34-4ea049279e62
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: fa21b3bb-676c-bfff-39c2-34691080cfd7
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: f04c37b7-2f5a-f288-3960-fb9a2fc0742e
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 30
+- identifier: 0b20ed68-f7ec-7f13-33cf-039611a01f4e
+  name: Lifestream Video
+  pageRef: /pages/assignments/lifestream-video
+  parent: f04c37b7-2f5a-f288-3960-fb9a2fc0742e
+  weight: 40
+- identifier: 4a4773b6-d82c-4374-762a-47c5e52efb86
+  name: Hairy Arm Video
+  pageRef: /pages/assignments/hairy-arm-video
+  parent: f04c37b7-2f5a-f288-3960-fb9a2fc0742e
+  weight: 50
+- identifier: 88825a23-1eb4-ea73-73fa-effb651fab4c
+  name: Lie Video
+  pageRef: /pages/assignments/lie-video
+  parent: f04c37b7-2f5a-f288-3960-fb9a2fc0742e
+  weight: 60
+- identifier: 626d1541-7fc7-668e-a7fb-4f71f5cedbfe
+  name: Final Video
+  pageRef: /pages/assignments/final-video
+  parent: f04c37b7-2f5a-f288-3960-fb9a2fc0742e
+  weight: 70
+- identifier: 1dabfba9-2099-ccb1-8b90-d72992f6ef1a
+  name: Reflections
+  pageRef: /pages/assignments/reflections
+  parent: f04c37b7-2f5a-f288-3960-fb9a2fc0742e
+  weight: 80
+- identifier: 5328e1d4-cdd6-2817-e9cf-623e0aa39b24
+  name: Student Projects
+  pageRef: /pages/student-projects
+  weight: 90
